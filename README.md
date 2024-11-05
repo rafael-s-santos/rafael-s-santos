@@ -23,16 +23,15 @@
   <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandy-piropo-67b113217/"/>
 </a>
 
- <details>
-    <summary>Languages</summary>
-    
-  
-  ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
+
+   <b>Languages</b>
+       
   ![Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
   ![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
   ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
+  ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
   ![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue)
-  </details>
+  
 
 
 📖 probably [reading something](https://www.goodreads.com/user/show/103597426-rafael-santos)
