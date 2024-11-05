@@ -1,20 +1,52 @@
-### Hi there 👋
+# Rafael Santos
 
-## Hi, i'm Rafael!
+<img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
 
-### ✨ fast facts
+<p align="left"> 
+      Hello there! I'm a aspiring <b>web developer</b> currently pursuing a degree in <b>Internet Systems Technology</b>  at <b>IFES</b> (Federal Institute of Espírito Santo).
+</p>
 
-ℹ [he/him pronouns](https://en.wikipedia.org/wiki/He_(pronoun))
+<p align="left">
+  🕑 I'm Learning...
+</p>
 
-<!-- 🖋 [occasional writer] -->
+<p align="left">
+ <b>You can find me on:</b>
+</p>
+
+<p align="left">
+<a href="mailto:e.rafael.rss@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=mailto:sandypiropodev@gmail.com" />
+</a>
+
+<a href="https://www.linkedin.com/in/rafael-ssr/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandy-piropo-67b113217/"/>
+</a>
+
+ <details>
+    <summary>Languages</summary>
+    
+  
+  ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
+  ![Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
+  ![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
+  ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
+  ![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue)
+  </details>
+
 
 📖 probably [reading something](https://www.goodreads.com/user/show/103597426-rafael-santos)
-
-### 📋 current roles
-
-- 🔭 I'm currently working on automating tasks for colleagues at work using Python in the COI ES sector at [EDP Brasil](https://www.linkedin.com/company/edpbrasil/?originalSubdomain=br).
-- 🌱 I'm currently learning Python with the [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/) and through the live sessions on the YouTube channel [Live de Python](https://www.youtube.com/@Dunossauro).
-
-### 📊 Current GitHub stats 
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-s-santos&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+  
+# My Status
+<div>
+  <table style="margin: 0 auto;" align="center">
+    <tr>
+      <td>
+        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=rafael-s-santos&theme=react&hide_border=false"/>
+      </td>
+      <td>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-s-santos&layout=compact&theme=react&count_private=true"/>
+      </td>
+    </tr>
+  </table>
+</div>
