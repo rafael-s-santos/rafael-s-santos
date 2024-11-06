@@ -16,13 +16,16 @@
 
 <p align="left">
 <a href="mailto:e.rafael.rss@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=mailto:sandypiropodev@gmail.com" />
+  <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=mailto:mailto:e.rafael.rss@gmail.com" />
 </a>
 
 <a href="https://www.linkedin.com/in/rafael-ssr/" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandy-piropo-67b113217/"/>
+  <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-ssr/"/>
 </a>
-
+<a href="https://www.youtube.com/@rafael-qwerty" alt="YouTube">
+    <img src="https://img.shields.io/badge/-YouTube-grey?style=flat-square&labelColor=gray&logo=youtube&logoColor=white&link=https://www.youtube.com/@rafael-qwerty" />
+</a>
+</p>
 
    <b>Languages</b>
        
