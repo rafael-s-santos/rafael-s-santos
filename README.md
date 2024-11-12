@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🕑 Take a look at what I'm <a href="https://github.com/rafael-s-santos/learning-log">Learning...</a>
+  🕑 Take a look at what I'm <a href="https://github.com/rafael-s-santos/learning-log">Learning.</a>
 </p>
 
 <p align="left">
