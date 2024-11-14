@@ -1,13 +1,13 @@
-# Rafael Santos
+<h1 align="center">Rafael Santos</h1>
 
 <img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
-      Hello there! I'm a aspiring <b>web developer</b> currently pursuing a degree in <b>Internet Systems Technology</b>  at <b>IFES</b> (Federal Institute of Espírito Santo).
+      Hello there! I'm a aspiring <b>web developer</b> currently pursuing a degree in <b>Internet Systems Technology</b> at <b>IFES</b> - Federal Institute of Espírito Santo
 </p>
 
 <p align="left">
-  🕑 Take a look at what I'm <a href="https://github.com/rafael-s-santos/learning-log">Learning.</a>
+  🕑 Take a look at what I'm <a href="https://github.com/rafael-s-santos/learning-log">Learning</a>
 </p>
 
 <p align="left">
@@ -39,7 +39,7 @@
 
 📖 probably [reading something](https://www.goodreads.com/user/show/103597426-rafael-santos)
   
-# My Status
+<h1 align="center">My Status</h1>
 <div>
   <table style="margin: 0 auto;" align="center">
     <tr>
