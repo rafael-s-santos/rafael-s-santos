@@ -5,10 +5,10 @@
 <p align="left"> 
       Hello there! I'm a aspiring <b>web developer</b> currently pursuing a degree in <b>Internet Systems Technology</b> at <b>IFES</b> - Federal Institute of Espírito Santo
 </p>
-
+<!--
 <p align="left">
   🕑 Take a look at what I'm <a href="https://github.com/rafael-s-santos/learning-log">Learning</a>
-</p>
+</p> -->
 
 <p align="left">
  <b>You can find me on:</b>
